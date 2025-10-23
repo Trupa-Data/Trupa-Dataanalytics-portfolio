@@ -1,14 +1,14 @@
 # Trupa-Dataanalytics-portfolio
 # Hi, I’m Trupa Vaghasiya 👋 (Trupa-Data)
 
-Data Analyst — actively seeking full-time Data Analytics roles in Germany
+Data Analyst — actively seeking full-time junior Data Analytics roles in Germany
 
 I turn data into clear, actionable insights that help teams make confident, data-driven decisions. With a Master’s in Data Analytics from the Berlin School of Business and Innovation, I combine SQL, Python, and Tableau expertise with strong analytical thinking and a passion for storytelling to drive operational improvements and strategic growth.
 
 ---
 
 ## Elevator pitch
-I help product and business teams uncover opportunities and reduce uncertainty by delivering reproducible analyses, interactive dashboards, and data-driven recommendations. Currently looking for a full-time Data Analytics role in Germany.
+I help product and business teams uncover opportunities and reduce uncertainty by delivering reproducible analyses, interactive dashboards, and data-driven recommendations. Currently looking for a full-time junior Data Analytics role in Germany.
 
 ---
 
