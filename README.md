@@ -92,7 +92,7 @@ SQL-based (PostgreSQL) analysis of a published international-student mental heal
 ### 🎓 Education
 
 **MSc Data Analytics** — University for the Creative Arts (UK), delivered in collaboration with Berlin School of Business and Innovation — *November 2025*
-Bachlor computer science of Engineering _ Parul University Vadodara , Gujarat , India
+**Bachlor computer science of Engineering** _ Parul University Vadodara , Gujarat , India *April 2019*
 
 ---
 
