@@ -10,7 +10,7 @@
 
 ### 🎯 Elevator Pitch
 
-I turn messy, raw data into dashboards and reports people actually use. With hands-on experience analyzing real-time IoT telemetry at Dotcom IoT LLP and an MSc in Data Analytics from Berlin, I combine SQL, Power BI, and Python to find patterns, cut reporting time, and support better business decisions. Currently based in Germany and looking for my first full-time Data Analyst / Business Analyst role here.
+I turn messy, raw data into dashboards and reports people actually use. With hands-on experience analyzing real-time IoT telemetry at Dotcom IoT LLP and an MSc in Data Analytics from Berlin, I combine SQL, Power BI, and Python to find patterns, cut reporting time, and support better business decisions. Currently based in Germany and looking for my first full-time Data Analyst / Business Analyst / Reporting Analyst / Product Analyst role here.
 
 ---
 
