@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Trupa Vaghasiya 👋</h1>
-<h3 align="center">Junior Data Analyst | SQL · Power BI · Python · Excel | MSc Data Analytics (Berlin)</h3>
+<h3 align="center">Junior Data Analyst | SQL · Power BI · Python · Excel · Databricks · Tableau · AWS </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/trupa-vaghasiya-2b4216301"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
   <a href="mailto:vaghasiyatrupa01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"></a>
-</p>
+</p>·
 
 ---
 
@@ -91,8 +91,9 @@ SQL-based (PostgreSQL) analysis of a published international-student mental heal
 
 ### 🎓 Education
 
-**MSc Data Analytics** — University for the Creative Arts (UK), delivered in collaboration with Berlin School of Business and Innovation — *November 2025*
-**Bachlor computer science of Engineering** _ Parul University Vadodara , Gujarat , India *April 2019*
+**MSc Data Analytics** - University for the Creative Arts (UK), delivered in collaboration with Berlin School of Business and Innovation - *November 2025*
+
+**Bachlor computer science of Engineering** -Parul University Vadodara , Gujarat , India *April 2019*
 
 ---
 
