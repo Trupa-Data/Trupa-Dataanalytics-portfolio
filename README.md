@@ -10,7 +10,7 @@
 
 ### 🎯 Elevator Pitch
 
-I turn messy, raw data into dashboards and reports people actually use. With hands-on experience analyzing real-time IoT telemetry at Dotcom IoT LLP and an MSc in Data Analytics from Berlin, I combine SQL, Power BI, and Python to find patterns, cut reporting time, and support better business decisions. Currently based in Germany and looking for my first full-time Data Analyst / Business Analyst / Reporting Analyst / Product Analyst role here.
+I turn messy, raw data into dashboards and reports people actually use. With hands-on experience analyzing real-time IoT telemetry at Dotcom IoT LLP and an MSc in Data Analytics from Berlin, I combine SQL, Power BI, and Python to find patterns, cut reporting time, and support better business decisions. Currently based in Germany and looking for my first full-time Data Analyst / Business Analyst / Reporting Analyst / Product Analyst role in the Germany.
 
 ---
 
@@ -18,7 +18,7 @@ I turn messy, raw data into dashboards and reports people actually use. With han
 
 I'm a Junior Data Analyst with practical experience cleaning, structuring, and visualizing large-scale operational data — most recently working with IoT device telemetry (battery status, connectivity logs, tamper alerts) at Dotcom IoT LLP. I hold a Master of Science in Data Analytics, awarded by University for the Creative Arts (UK) in collaboration with Berlin School of Business and Innovation, and I'm certified in Power BI (Microsoft PL-300), SQL, Python, and Excel through DataCamp.
 
-I like problems where data has a story to tell — spotting a bottleneck in a system log, finding out why churn spiked, or building a dashboard that saves a team hours of manual reporting each week. I'm currently based in Germany, speak German at B1 level, and I'm actively looking for opportunities as a Data Analyst, Business Analyst, Product Analyst, or Reporting Analyst.
+I like problems where data has a story to tell — spotting a bottleneck in a system log, finding out why churn spiked, or building a dashboard that saves a team hours of manual reporting each week. I'm currently based in Germany, speak German at B1 level, and I'm actively looking for opportunities as a Data Analyst, Business Analyst, Product Analyst, or Reporting Analyst in the Germany.
 
 ---
 
@@ -28,7 +28,7 @@ I like problems where data has a story to tell — spotting a bottleneck in a sy
 **Visualization & BI:** Power BI (PL-300 Certified) · Tableau · Excel (Pivot Tables, VLOOKUP/XLOOKUP, DAX basics)
 **Data Engineering Basics:** Data Cleaning · Data Pipelines · Databricks (fundamentals)
 **Other:** IoT Telemetry Analysis · Time-Series Data · Reporting & KPI Dashboards · Cross-functional Collaboration
-**Languages:** English (Fluent) · German (B2)
+**Languages:** English (Fluent) · German (B1)
 
 ---
 
@@ -85,7 +85,7 @@ SQL-based (PostgreSQL) analysis of a published international-student mental heal
 - Data Analyst with Excel — DataCamp
 - Data Analyst with Databricks — DataCamp
 - Data Visualization — DataCamp
-- German Language Proficiency — B2
+
 
 ---
 
