@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Trupa Vaghasiya 👋</h1>
-<h3 align="center">Junior Data Analyst | SQL · Power BI · Python · Excel · Databricks · Tableau · AWS </h3>
+<h3 align="center">Junior Data Analyst | junior BI & Reporting Analyst | SQL · Power BI · Python · Excel · Databricks · Tableau  </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/trupa-vaghasiya-2b4216301"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
