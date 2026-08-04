@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Trupa Vaghasiya 👋</h1>
-<h3 align="center">Junior Data Analyst | junior BI & Reporting Analyst | SQL · Power BI · Python · Excel · Databricks · Tableau  </h3>
+<h3 align="center">Junior Data Analyst | Junior BI & Reporting Analyst | SQL · Power BI · Python · Excel · Databricks · Tableau  </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/trupa-vaghasiya-2b4216301"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
@@ -99,8 +99,14 @@ SQL-based (PostgreSQL) analysis of a published international-student mental heal
 
 ### 📫 Get in Touch
 
+
+## Let’s connect 
+Thank you for visiting my portfolio¡
+I am actively looking for a **Junior Data Analyst, BI Analyst, Reporting Analyst, Product Analyst** opportunity in Germany.
+If you are think my skills and projects are a good fit for your team, I’d be happy to connect and discuss how i can contribute.
 - 💼 [LinkedIn](https://www.linkedin.com/in/trupa-vaghasiya-2b4216301)
 - 📧 vaghasiyatrupa01@gmail.com
 - 🔗 [GitHub](https://github.com/Trupa-Data)
 
 <p align="center"><i>Open to Junior Data Analyst / Business Analyst / Product Analyst / Reporting Analyst roles in Germany 🇩🇪</i></p>
+
