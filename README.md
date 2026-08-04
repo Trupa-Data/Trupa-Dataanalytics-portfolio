@@ -100,7 +100,7 @@ SQL-based (PostgreSQL) analysis of a published international-student mental heal
 ### 📫 Get in Touch
 
 
-## Let’s connect 
+
 Thank you for visiting my portfolio¡
 I am actively looking for a **Junior Data Analyst, BI Analyst, Reporting Analyst, Product Analyst** opportunity in Germany.
 If you are think my skills and projects are a good fit for your team, I’d be happy to connect and discuss how i can contribute.
